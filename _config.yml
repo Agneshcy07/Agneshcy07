@@ -4,7 +4,4 @@ author:
   name: Agnes Ho
   email: agnesho392@gmail.com
 description: "Agnes Ho's portfolio page"
-
-remote_theme: raviriley/agency-jekyll-theme
-plugins:
-  - jekyll-remote-theme
+theme: hacker
